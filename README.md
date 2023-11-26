@@ -1,1 +1,1 @@
-# Nasdaq-Staock-Market-Case-Study-
+# Nasdaq-Stock-Market-Case-Study
